@@ -1,0 +1,6 @@
+x=NS
+y=Amor
+resultado = x+y 
+print ()
+resultado = Deus
+
